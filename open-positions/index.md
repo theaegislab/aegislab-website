@@ -12,7 +12,7 @@ machine learning, molecular pathology, synthetic lethality, or DNA repair. If yo
 completing your doctoral studies in one of these areas, we would like to hear from you.
 
 To apply, please send a brief description of your research interests along with your CV to
-**dglodzik@bidmc.harvard.edu**.
+**hiring@aegislab.bio**.
 
 ---
 
