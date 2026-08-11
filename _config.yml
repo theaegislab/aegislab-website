@@ -1,0 +1,14 @@
+title: The Aegis Lab
+description: Genomics and AI Laboratory led by Dr Dominik Glodzik
+url: "https://aegislab.bio"
+baseurl: ""
+lang: en
+direction: ltr
+
+theme: bulma-clean-theme
+
+# Navigation is configured in _data/navigation.yml, not here.
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

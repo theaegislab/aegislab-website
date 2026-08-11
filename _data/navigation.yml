@@ -1,0 +1,11 @@
+# "Home" is rendered automatically by the theme; list everything else here.
+- name: Science
+  link: /science/
+- name: Publications
+  link: /publications/
+- name: Code
+  link: /code/
+- name: Members
+  link: /members/
+- name: Open Positions
+  link: /open-positions/

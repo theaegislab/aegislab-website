@@ -1,0 +1,24 @@
+---
+---
+$primary: #F2EFEA;
+
+// Bulma's is-medium hero defaults to 9rem top/bottom padding
+$hero-body-padding-medium: 5rem 4.5rem;
+
+// Main font color (body text + headings). The navbar uses the
+// is-primary color variant, which derives from $primary-invert
+// instead, so it's unaffected by this.
+$text: #032642;
+$text-strong: #032642;
+
+// Import Main CSS file from theme
+@import "main";
+
+// The theme hardcodes Montserrat via $family-sans-serif (no !default),
+// so it overrides that Sass variable regardless of what's set above.
+// Override the compiled font-family instead.
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html {
+  font-family: 'Poppins', sans-serif;
+}
